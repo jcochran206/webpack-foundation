@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/jcochran206/webpack-foundation#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "sass": "^1.24.2",
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10"
